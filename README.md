@@ -1,5 +1,8 @@
 # SeggySave (Abiotic Factor)
 Tiny Windows utility to manage Abiotic Factor saves.
+Aspirations for adding other games exist though, I guess.
+
+![Usage preview][media/Preview.png]
 
 ## Features
 - Open save folder shortcut
