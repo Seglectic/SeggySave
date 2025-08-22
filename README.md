@@ -14,3 +14,12 @@ Aspirations for adding other games exist though, I guess.
 - Dark mode! (ttkbootstrap “darkly”)
 - Safe unzip (Prompts for overwrite)
 - Auto-refreshes when Worlds change
+- No external deps
+
+## False Positive Warning
+In case you receive this error running the .exe and get spooked easily, feel free to download and run `python SeggySave.py`. 
+If you already have Python 3.x installed it should run no prollem.
+I just lazily packed it up with pyinstaller with the hopes of making things more streamlined.
+
+
+- <img width="544" height="507" alt="mom" src="https://github.com/user-attachments/assets/fd1e6ac5-2fcc-40f6-993d-35443a9dd716" />
