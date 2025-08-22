@@ -2,7 +2,8 @@
 Tiny Windows utility to manage Abiotic Factor saves.
 Aspirations for adding other games exist though, I guess.
 
-![Usage preview][media/Preview.png]
+<img width="436" height="448" alt="Preview" src="https://github.com/user-attachments/assets/f7cae036-8ba9-4191-b303-966cf315bdd5" />
+
 
 ## Features
 - Open save folder shortcut
