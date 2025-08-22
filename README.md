@@ -17,7 +17,7 @@ Aspirations for adding other games exist though, I guess.
 - No external deps
 
 ## False Positive Warning
-In case you receive this error running the .exe and get spooked easily, feel free to download and run `python SeggySave.py`. 
+In case you receive this error running the .exe and get spooked easily, feel free to download and run `python SeggySave.py`.   
 If you already have Python 3.x installed it should run no prollem.  
 I just lazily packed it up with pyinstaller with the hopes of making things more streamlined.  
 
